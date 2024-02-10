@@ -1,1 +1,1 @@
-# movie-app-api
+# movie-api
