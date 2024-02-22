@@ -1,0 +1,17 @@
+[33mcommit 50a1572b48b21f1010a85a79908fc6af10012c5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Jair Kevin <jkfloresg@uni.pe>
+Date:   Tue Feb 13 10:35:04 2024 -0500
+
+    add devise gem for authentication
+
+[33mcommit f9515b6b5cc182790c44b6d3a0dbde5ebc6ebc81[m
+Author: Jair Kevin <jkfloresg@uni.pe>
+Date:   Sat Feb 10 12:57:15 2024 -0500
+
+    movie crud - spec
+
+[33mcommit 16e1943277cd3b8660783cfc44c8736743252e99[m
+Author: Jair Kevin <jkfloresg@uni.pe>
+Date:   Sat Feb 10 11:36:29 2024 -0500
+
+    first commit
